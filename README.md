@@ -32,13 +32,5 @@ class Profile(Mache):
 		
 		return langs, specialities, environnement
 ```
-<hr>
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,css,html,vscode" />
-  </a>
-</p>
 
 
