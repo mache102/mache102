@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about `d2h5IHRoaXMgaXMgZW5jb2RlZCBpbiBiYXNlNjQ=`
 - 📫 How to reach me: I'm mainly available on Discord, please send a DM request first
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: `0x66`
 <hr>
 
 **Technologies**  
