@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ```
 
 ## My Work 
-- Fault Diagnosis DL Research 
+- Fault Diagnosis (DL)
 - NeRFs/3DGS 
 - Graphics Programming
 - Multiplayer Dev 
