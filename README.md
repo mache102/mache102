@@ -6,18 +6,5 @@ Here are some ideas to get you started:
 <hr>
 
 ```c
-👾 Discord: segtwo
+👾 Discord: vec3f
 ```
-**Hello, I'm `mache102` 👋**
-
-- 🔭 I’m currently working on a project with tons of maps... 🤔 
-- 🌱 I’m currently learning ML/DL (NeRFs in particular) and robotics
-- 👯 I’m looking to collaborate on anything Python, especially ML
-- 🤔 I’m looking for help with deep learning
-- 💬 Ask me about `d2h5IHRoaXMgaXMgZW5jb2RlZCBpbiBiYXNlNjQ=`
-- 📫 How to reach me: I'm mainly available on Discord, please send a DM request first
-- 😄 Pronouns: he/him
-<hr>
-
-**Technologies**  
-![Technologies](https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,html,css,js,c,cpp)
