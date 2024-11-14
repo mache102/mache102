@@ -8,3 +8,14 @@ Here are some ideas to get you started:
 ```c
 👾 Discord: vec3f
 ```
+
+## My Work 
+- Fault Diagnosis DL Research 
+- NeRFs/3DGS 
+- Graphics Programming
+- Multiplayer Dev 
+- Web scripting/reverse engineering
+
+<hr> 
+
+Working on an innovative twist to the classic 2D MMO tank games arras.io and diep.io. Join our server here: https://discord.gg/qaG6xjvZn3
