@@ -5,10 +5,6 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-```c
-👾 Discord: vec3f
-```
-
 ## My Work 
 - Fault Diagnosis (DL)
 - NeRFs/3DGS 
