@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - Web scripting/reverse engineering
 
 <hr> 
-
-Working on an innovative twist to the classic 2D MMO tank games arras.io and diep.io. Join our server here: https://discord.gg/qaG6xjvZn3
